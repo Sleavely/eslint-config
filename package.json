@@ -1,0 +1,35 @@
+{
+  "name": "@sleavely/eslint-config",
+  "version": "0.0.0",
+  "description": "Personal preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "javascript",
+    "typescript",
+    "linting"
+  ],
+  "author": "Joakim Hedlund <contact@joakimhedlund.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/Sleavely/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sleavely/eslint-config.git"
+  },
+  "peerDependencies": {
+    "@sleavely/eslint-plugin-js-rules": "^1.0.1",
+    "@sleavely/eslint-plugin-ts-rules": "^1.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.5",
+    "eslint": "^8.51.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-config-standard-with-typescript": "^39.1.1",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.2.2"
+  }
+}
