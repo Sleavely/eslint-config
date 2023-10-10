@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Personal preferences",
   "main": "index.js",
+  "files": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
