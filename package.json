@@ -21,6 +21,9 @@
     "type": "git",
     "url": "git+https://github.com/Sleavely/eslint-config.git"
   },
+  "engines": {
+    "node" : ">=16.0.0"
+  },
   "peerDependencies": {
     "@sleavely/eslint-plugin-js-rules": "^1.0.1",
     "@sleavely/eslint-plugin-ts-rules": "^1.0.0",
