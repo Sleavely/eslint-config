@@ -1,6 +1,6 @@
 {
   "name": "@sleavely/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal preferences",
   "main": "index.js",
   "files": [],
@@ -22,7 +22,7 @@
     "url": "git+https://github.com/Sleavely/eslint-config.git"
   },
   "engines": {
-    "node" : ">=16.0.0"
+    "node": ">=16.0.0"
   },
   "peerDependencies": {
     "@sleavely/eslint-plugin-js-rules": "^1.0.1",
