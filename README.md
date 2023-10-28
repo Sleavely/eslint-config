@@ -41,4 +41,5 @@ I rely on [`standard`](https://github.com/standard/eslint-config-standard) and [
 In addition to the JS rules, these apply:
 
 * `@typescript-eslint/no-explicit-any` - Javascript goes in .js, not .ts
+* ~~`@typescript-eslint/strict-boolean-expressions`~~ is turned off.
 * all of [`@sleavely/ts-rules`](https://github.com/Sleavely/eslint-plugin-ts-rules)

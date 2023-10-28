@@ -18,6 +18,7 @@ module.exports = {
       rules: {
         '@typescript-eslint/comma-dangle': ['error', 'always-multiline'],
         '@typescript-eslint/no-explicit-any': ['error'],
+        '@typescript-eslint/strict-boolean-expressions': 'off',
         '@sleavely/ts-rules/prefer-inferred-const': ['error', 'always'],
       },
     },
