@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Sleavely/eslint-config/compare/v1.0.0...v1.0.1) (2023-10-28)
+
+
+### Bug Fixes
+
+* disable @typescript-eslint/strict-boolean-expressions ([19b9773](https://github.com/Sleavely/eslint-config/commit/19b9773897af02e625387feb44cfc827e4ab8fd5))
+
 ## [1.0.0](https://github.com/Sleavely/eslint-config/compare/v1.0.0...v1.0.0) (2023-10-10)
 
 
