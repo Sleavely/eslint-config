@@ -17,12 +17,14 @@ module.exports = {
 }
 ```
 
-However, **Typescript** projects need to ensure they use strict mode:
+**Typescript** projects also need to use strict mode:
 
 ```jsonc
 // tsconfig.json
 {
-  strict: true
+  "compilerOptions": {
+    "strict": true
+  }
 }
 ```
 
