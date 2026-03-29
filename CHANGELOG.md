@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/Sleavely/eslint-config/compare/v1.0.1...v1.0.2) (2026-03-29)
+
+
+### Bug Fixes
+
+* npm audit 2026-03-29 ([1481e9b](https://github.com/Sleavely/eslint-config/commit/1481e9b40d67d7aa455186058faef64c46842bd7))
+
 ## [1.0.1](https://github.com/Sleavely/eslint-config/compare/v1.0.0...v1.0.1) (2023-10-28)
 
 
